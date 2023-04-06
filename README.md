@@ -1,4 +1,11 @@
+<img src="https://github-readme-stats.vercel.app/api?username=npurson&show_icons=true&hide=issues" alt="Github stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npurson&layout=compact" alt="Top langs" height="170"/>
+
 ### Hi there 👋
+
+- 🎓 I'm a **MS student in EE** from Huazhong University of Science and Technology (**HUST**), supervised by Prof. [Xinggang Wang](https://xinggangw.info/).
+- ✨ My current research interests focus on **Computer Vision**.
+- ⚗️ Research internship at Horizon Robotics.
+- 📫 Reach me via [Mail](natterpurson@qq.com) and [Twitter](https://twitter.com/npurson_).
 
 <!--
 **npurson/npurson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
