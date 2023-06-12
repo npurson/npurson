@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-- 🎓 I'm a **MS student in EE** from Huazhong University of Science and Technology (**HUST**), supervised by Prof. [Xinggang Wang](https://xinggangw.info/).
+- 🎓 I'm a **MS student in EE** from Huazhong University of Science and Technology (**HUST**), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 - ✨ My current research interests focus on **Computer Vision**.
-- ⚗️ Research internship at Horizon Robotics.
+- ⚗️ Research internship @ [Horizon Robotics](https://github.com/HorizonRobotics).
 - 📫 Reach me via [Mail](natterpurson@qq.com) and [Twitter](https://twitter.com/npurson_).
 
 <!--
