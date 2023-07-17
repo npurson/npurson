@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
-- 🎓 I'm a **MS student** @ Huazhong University of Science and Technology (**HUST**), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
-- ✨ My current research interests focus on **Computer Vision**.
+- 🎓 I'm a **MS student** @ [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
+- ✨ Envisioning Foundation Models & General Agents.
 - ⚗️ Research internship @ [Horizon Robotics](https://github.com/HorizonRobotics).
-- 📫 Reach me via [Mail](natterpurson@qq.com) and [Twitter](https://twitter.com/npurson_).
+- 📫 Reach me via [Mail](natterpurson@qq.com) & [Twitter](https://twitter.com/npurson_).
 
 <!--
 **npurson/npurson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
