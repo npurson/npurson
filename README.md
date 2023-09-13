@@ -5,7 +5,7 @@
 
 - 🎓 I'm a **MS student** @ [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 - ✨ Envisioning Foundation Models & General Agents.
-- ⚗️ Research internship @ [Horizon Robotics](https://github.com/HorizonRobotics).
+- ⚗️ Research internship @ [Horizon Robotics](https://horizon.cc/).
 - 📫 Reach me via [Mail](natterpurson@qq.com) & [Twitter](https://twitter.com/npurson_).
 
 <!--
