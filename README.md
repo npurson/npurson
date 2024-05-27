@@ -3,9 +3,10 @@
 
 ### Hi there 👋
 
-- 🎓 I'm a **PhD candidate @ [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/)**, under the mentorship of **Prof. [Xinggang Wang](https://xwcv.github.io/)**.
+- 🎓 I'm a **PhD candidate @ [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/)**,</br>
+&nbsp; &nbsp; &nbsp; under the mentorship of **Prof. [Xinggang Wang](https://xwcv.github.io/)**.
 - ⚗️ Research internship @ **[Horizon Robotics](https://horizon.cc/)**.
-- ✨ Envisioning Foundation Models & General Agents.
+- ✨ Envisioning Vision Foundation Models & General Agents.
 - 📫 Reach me via [Mail](natterpurson@qq.com) & [Twitter](https://twitter.com/npurson_).
 
 <!--
