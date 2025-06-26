@@ -5,7 +5,7 @@
 
 - 🎓 I'm a **PhD candidate @ [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/)**,</br>
 &nbsp; &nbsp; &nbsp; under the mentorship of **Prof. [Xinggang Wang](https://xwcv.github.io/)**.
-- ⚗️ Research internship @ **[Horizon Robotics](https://horizon.cc/)**.
+- ⚗️ Research internship @ **[HorizonRobotics RobotLab](https://horizonrobotics.github.io/robot_lab/main/index.html)**.
 - ✨ Envisioning Spatial Intelligence & General Agents.
 - 📫 Reach me via [Mail](natterpurson@qq.com) & [Twitter](https://twitter.com/npurson_).
 
